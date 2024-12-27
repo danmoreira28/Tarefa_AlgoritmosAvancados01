@@ -1,0 +1,13 @@
+A complexidade de tempo do exercicio 01
+é O(n).
+
+A complexidade de tempo para ambos os modelos (Top-Down com memoization e Bottom-Up) é O(n), onde
+n é o número de entrada.
+
+Principais diferenças:
+Top-Down (Recursivo com Memoization):
+Usa uma estrutura auxiliar (memo) para armazenar os resultados parciais.
+Reduz chamadas redundantes.
+Bottom-Up (Iterativo):
+Constrói a solução de forma incremental.
+Utiliza um array para armazenar os resultados intermediários.
